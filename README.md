@@ -39,7 +39,7 @@ Artistas:
 
 Artistas más frecuentes:
 
-Aquí la lista completa
+Aquí la [lista completa en Excel](https://github.com/valenciakva/Playlist-musica-de-Universo-en-Expansion/blob/main/Playlist%20Completa%20Universo%20en%20Expansion.xlsx)
 
 ## Limitaciones:
 
