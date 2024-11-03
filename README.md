@@ -1,9 +1,10 @@
 # Playlist-musica-de-Universo-en-Expansion
-Como se creó y detalles adicionales del Playlist de la música del programa de radio Universo en Expansión de Radio Bolivariana y la Universidad de Antioquia
+Cómo se creó y detalles adicionales del Playlist de la música del programa de radio Universo en Expansión de Radio Bolivariana y la Universidad de Antioquia
 
 Encuentre el playlist [aquí](https://open.spotify.com/playlist/1hgaCN4QIEZR2faOjnlnjA?si=b71739ccb1f04a8e)
 
-Leálo desde la App de Spotify
+![Leálo desde la App de Spotify](docs/spcodelogo.jpg)
+
 
 Universo en Expansión en [iVoox](https://www.ivoox.com/en/podcast-universo-expansion-profs-p-cuartas-a-ruiz_sq_f1398704_1.html)
 
@@ -31,15 +32,37 @@ Ante la tarea casi imposible de escuchar de nuevo todos los programas, extraer l
 
 El proceso consiste en el computador corriendo 24 horas, todos los dias, reproduciendo los episodios en iVoox y Mixcloud e identificando los temas musicales, con ese resultado, y luego de alguna limpieza manual, se actualiza la lista en Spotify. A partir de Octubre 5 de 2024, la lista se actualiza manualmente de manera semanal. El proceso automático tomó aproximadamente 1 mes.
 
-## Estadísticas:
+## Estadísticas: (A Noviembre 3 de 2024)
 
-Temas musicales adicionados automáticamente:
+541 temas por 505 artistas. 
+Duración: 49 horas 14 minutos
 
-Artistas:
+Estilo: Acústico
 
-Artistas más frecuentes:
+Género predominante: Rock
 
-Aquí la [lista completa en Excel](https://github.com/valenciakva/Playlist-musica-de-Universo-en-Expansion/blob/main/Playlist%20Completa%20Universo%20en%20Expansion.xlsx)
+Sub-genero Predominante: Clásica
+
+Artista más frecuente: Pink Floyd
+
+Década predominante: 2010s	
+
+Clave musical predominante: D (Re)
+
+### Géneros musicales y su distribución
+
+![Generos y su distribucion](docs/generos.jpg)
+
+### Artistas y su distribución
+
+![Artistas y su distribucion](docs/artistas.jpg)
+
+### Décadas de los temas musicales
+
+![Decadas y su distribucion](docs/decadas.jpg)
+
+
+Aquí la [lista completa en Excel](docs/Universo en Expansión-Lista Completa.xlsx)
 
 ## Limitaciones:
 
@@ -50,6 +73,4 @@ No ha sido posible identificar el 100% de los temas musicales por las siguientes
 - El sistema usado no es perfecto y no logra identificar correctamente los temas musicales sobre todo si ls duración en el programa no es muy larga.
 
 - Es posible que existan temas mal identificados. Se ha hecho una limpieza de los resultados pero es posible que existan algunos temas que no corresponden pero a la fecha debe ser un porcentaje muy bajo.
-Aquí la lista de faltantes y correcciones
 
-valencia.ca@gmail.com
