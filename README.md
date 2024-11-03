@@ -34,8 +34,10 @@ El proceso consiste en el computador corriendo 24 horas, todos los dias, reprodu
 
 ## Estadísticas para ñoños: (A Noviembre 3 de 2024)
 
-Capítulos procesados:472 (Mixcloud:116, iVoox:356)
+Capítulos procesados: 472 (Mixcloud:116, iVoox:356)
+
 541 temas por 505 artistas. 
+
 Duración: 49 horas 14 minutos
 
 Estilo: Acústico
