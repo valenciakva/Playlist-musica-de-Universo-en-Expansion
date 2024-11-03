@@ -32,7 +32,7 @@ Ante la tarea casi imposible de escuchar de nuevo todos los programas, extraer l
 
 El proceso consiste en el computador corriendo 24 horas, todos los dias, reproduciendo los episodios en iVoox y Mixcloud e identificando los temas musicales, con ese resultado, y luego de alguna limpieza manual, se actualiza la lista en Spotify. A partir de Octubre 5 de 2024, la lista se actualiza manualmente de manera semanal. El proceso automático tomó aproximadamente 1 mes.
 
-## Estadísticas: (A Noviembre 3 de 2024)
+## Estadísticas para ñoños: (A Noviembre 3 de 2024)
 
 541 temas por 505 artistas. 
 Duración: 49 horas 14 minutos
