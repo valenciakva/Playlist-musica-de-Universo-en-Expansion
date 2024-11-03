@@ -62,7 +62,7 @@ Clave musical predominante: D (Re)
 ![Decadas y su distribucion](docs/decadas.jpg)
 
 
-Aquí la [lista completa en Excel](docs/Universo en Expansión-Lista Completa.xlsx)
+Aquí la [lista completa en Excel](docs/Universo en Expansion Lista Completa.xlsx)
 
 ## Limitaciones:
 
