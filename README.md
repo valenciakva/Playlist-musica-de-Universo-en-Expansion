@@ -71,7 +71,7 @@ Aquí la [lista completa en Excel](docs/UniversoEnExpansionListaCompleta.xlsx)
 
 No ha sido posible identificar el 100% de los temas musicales por las siguientes razones:
 
-- No todos los programas están disponibles: Yo grabé y publiqué 116 programas en Mixcloud y hay 490 en iVoox, pero hay otros que no están en Internet.
+- No todos los programas están disponibles: Yo grabé y publiqué 116 programas en Mixcloud y hay 356 en iVoox, pero hay otros que no están en Internet.
 
 - El sistema usado no es perfecto y no logra identificar correctamente los temas musicales sobre todo si ls duración en el programa no es muy larga.
 
