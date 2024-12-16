@@ -19,7 +19,7 @@ Una explicación rápida de como se generó el playlist, sus contenidos y alguna
 
 ## Porqué?
 
-Con más de 1000 programas y en cada uno de ellos con música de buena calidad siempre existió el interés de tener una lista de reproducción de esa música.... y bueno, Andrés Ruíz puso el reto ;-) 
+Con más de 400 programas y en cada uno de ellos con música de buena calidad siempre existió el interés de tener una lista de reproducción de esa música.... y bueno, Andrés Ruíz puso el reto ;-) 
 
 ## Cómo se hizo?
 
