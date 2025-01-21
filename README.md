@@ -1,7 +1,7 @@
 # Playlist-musica-de-Universo-en-Expansion
-Cómo se creó y detalles adicionales del Playlist de la música del programa de radio Universo en Expansión de Radio Bolivariana y la Universidad de Antioquia
+Cómo se creó y detalles adicionales del Playlist de la música del programa de radio Universo en Expansión de Radio Bolivariana y la Universidad de Antioquia.
 
-Encuentre el playlist [aquí](https://open.spotify.com/playlist/1hgaCN4QIEZR2faOjnlnjA?si=b71739ccb1f04a8e)
+Encuentre el playlist (Actualizada Semanalmente) [aquí](https://open.spotify.com/playlist/1hgaCN4QIEZR2faOjnlnjA?si=b71739ccb1f04a8e)
 
 ![Leálo desde la App de Spotify](docs/spcodelogo.jpg)
 
